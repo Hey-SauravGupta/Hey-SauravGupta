@@ -31,11 +31,7 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hey-SauravGupta&show_icons=true&locale=en&layout=compact&theme=dark" alt="saurav's top languages" />
-</p>
-
-<br>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hey-SauravGupta&show_icons=true&locale=en&theme=dark&count_private=true" alt="saurav's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hey-SauravGupta&show_icons=true&locale=en&layout=compact&theme=dark" alt="saurav's top languages" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Hey-SauravGupta&show_icons=true&locale=en&theme=dark&count_private=true" alt="saurav's github stats" />
 </p>
