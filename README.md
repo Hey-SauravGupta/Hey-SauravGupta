@@ -2,8 +2,8 @@
 
 ### A passionate Fullstack developer from India
 
-- 🌱 I’m currently learning **[Yahan likhein aap kya seekh rahe hain, jaise Next.js, etc.]**
--  portfolio **[Yahan apne portfolio website ka link daalein]**
+- 🌱 I’m currently learning Frameworks, App devlopement
+- 👨‍💻 All of my projects are available at N/A
 - 💬 Ask me about **MERN**
 - 📫 How to reach me: **heysauravgupta2004@gmail.com**
 
